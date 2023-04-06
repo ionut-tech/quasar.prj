@@ -5,7 +5,9 @@
         <testimonials-component class="fit"/>
       </div>
     </div>
-    
+    <div class="col-6 q-pa-xl"> 
+             
+            </div>
     
     <div class="row justify-end items-end">
       <div class="col">

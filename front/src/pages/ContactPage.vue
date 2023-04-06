@@ -1,17 +1,14 @@
 <template v-slot:default>
   <q-page class="items-center justify-lg-between vertical-top" style="height: 100%; background-color: #deb2a9">
-
     <div class="row justify-end items-end">
       <div class="col">
-        
         <div class="row justify-around items-center">
-          <div class="col-6 q-pa-xl"> 
- 
+          <div class="col-6 q-pa-xl">
     <div>
       <q-card class="my-chat">
         <q-card-section class="bg-grey-4">
-          Contact us!
-          <p>Please fill this form in a decent manner</p>
+          Contactează-ne!
+          <p>Te rugăm să completezi mai jos datele tale </p>
         </q-card-section>
         <q-card-section>
 		
@@ -24,7 +21,6 @@
             v-model="ph"
             placeholder="E-mail"
             :dense="dense"/>
-
           <q-input
             v-model="ph"
             placeholder="Telefon"
@@ -34,7 +30,7 @@
         <q-separator/>
 		
         <div class="q-pa-md"
-             style="max-width: 490px">
+        style="max-width: 490px">
           <q-input
             v-model="text"
             filled
@@ -47,7 +43,7 @@
           <q-btn color="grey-9" class="full-width" label="Trimite"/>
         </q-card>
       </q-card>
-        </div>
+      </div>
   </div>
             </div>
           <div class="col-6">
@@ -55,7 +51,6 @@
           </div>
         </div>
       </div>
-    
     <div class="row justify-end items-end">
       <div class="col">
         <foter-component/>

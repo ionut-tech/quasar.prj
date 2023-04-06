@@ -6,20 +6,19 @@
       max-width: 200px; width: 100%;">
         <q-card-section>
         <q-img
-        src="eye -2.PNG"
+        src="img.3.PNG"
         :ratio="1"
         height="200px"
                 />
-        
         </q-card-section>
 
         <q-card-actions align="center">
           <q-btn
-          color="secondary"
+          color="secondary" 
           label="Vezi detalii"
+          href="/prod#/prod"
           />
         </q-card-actions>
-
       </q-card>
 
       <q-card
@@ -27,7 +26,7 @@
       width: 200px">
         <q-card-section>
         <q-img
-          src="eye -2.PNG"
+          src="eye-3.JPG"
           :ratio="1"
           height="200px"
         />
@@ -39,26 +38,19 @@
           <q-btn 
           color="secondary"
           label="Vezi detalii"
+          href="/prod#/prod"
           />
         </div>
         </q-card-actions>
-
 </q-card>
 <div class="q-pa-md row items-start q-gutter-md">
-    
       <q-card-section 
       class="q-pt-none"
       color="secondary">
         <div class="text-subtitle1">
-          
-      
-      
-
         </div>
         <div class="text-caption text-secondary">
-         
         </div>
-        
       </q-card-section>
       <q-img
           src="message.PNG"
@@ -66,7 +58,7 @@
           height="210px"
           width="270px"
         />
-       
+      
       <q-separator inset />
       
     </div>

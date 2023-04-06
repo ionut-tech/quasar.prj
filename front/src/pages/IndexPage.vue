@@ -29,7 +29,6 @@
         </div>
       </div>
     </div>
-    
     <div class="row justify-end items-end">
       <div class="col">
         <foter-component/>

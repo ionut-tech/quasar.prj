@@ -20,14 +20,14 @@
           </q-btn-group>
         </div>
       </div>
-
       <div class="col-1"></div>
       <div class="col-2">
         <q-img 
         src="Logo.PNG" 
         to="/reg"
         style="height: 50px" 
-        fit="scale-down"/>
+        fit="scale-down"
+        />
       </div>
       <div 
       class="col-8 items-center" 
@@ -58,7 +58,6 @@
       <div class="col-9">
         <q-separator color="black" size="1px"/>
       </div>
-
     </div>
   </div>
 </template>

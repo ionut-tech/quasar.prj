@@ -28,6 +28,7 @@ Pentru a primi vești despre noile oferte te rugăm să introduci adresa ta de e
     </div>
     </div>
     </q-page>
+    
     <foter-component/>
 </template>
 

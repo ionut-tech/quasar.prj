@@ -54,11 +54,3 @@ import {ref} from 'vue';
 
 let dense = ref(true);
 </script>
-
-<style lang="sass" scoped>
-.my-card
-  width: 100%
-  max-width: 400px
-  height: 100%
-</style>
-

@@ -140,12 +140,16 @@
           </q-tab-panel>
         </q-tab-panels>
       </q-card>
-      <foter-component/>
+      
+      
     </div>
   </div>
   </div>
-  
-   
+  <div class="row justify-end items-end">
+      <div class="col">
+        <foter-component/>
+      </div>
+    </div>
 </template>
 
 <script setup lang="ts">

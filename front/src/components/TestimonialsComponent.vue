@@ -28,7 +28,6 @@
                 <p1>{{testimonial.customer}}</p1>
               </q-card-section>
             </q-card>
-
           </div>
         </div>
       </q-carousel-slide>

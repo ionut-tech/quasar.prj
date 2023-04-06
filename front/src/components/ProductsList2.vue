@@ -4,7 +4,7 @@
     
           <h7><strong>Modele de unghii disponibile: </strong></h7>
       
-         <div class="q-pa-md">
+         
       <div class="q-gutter-md row justify-left items-start">
         
         <q-card
@@ -84,11 +84,6 @@
             />
           </q-card-actions>
   </q-card>
-  
-  <div class="q-pa-md row items-start q-gutter-md justify-center">
-     
       </div>
-      </div>
-    </div>
     </div>
     </template>

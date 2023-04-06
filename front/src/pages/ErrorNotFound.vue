@@ -4,11 +4,9 @@
       <div style="font-size: 30vh">
         404
       </div>
-
       <div class="text-h2" style="opacity:.4">
         Oops. Nothing here...
       </div>
-
       <q-btn
         class="q-mt-xl"
         color="white"
@@ -24,8 +22,8 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-
-export default defineComponent({
+export default 
+defineComponent({
   name: 'ErrorNotFound'
 });
 </script>

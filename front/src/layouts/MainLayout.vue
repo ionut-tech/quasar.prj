@@ -7,7 +7,6 @@ Inject Drawer content for scrolling
 Quasar
 <template>
   <q-layout view="lHh lpR lFf">
-
     <q-header class="text-black" style="width: 100%; background-color: #deb2a9">
       <div class="row">
         <div class="col-2"></div>
@@ -28,13 +27,12 @@ Quasar
           <router-view/>
         </div>
       </div>
-
     </q-page-container>
   </q-layout>
 </template>
+
 <script>
 import MainMenu from '../components/MainMenu.vue';
-
 export default {
   components: {MainMenu}
 }
